@@ -4,4 +4,4 @@ SpeedReader is based on the BabelExt boilerplate.
 
 This plugin is under heavy contstruction.
 
-A rough prototype can be found at [pcorey.github.io/SpeedReader](pcorey.github.io/SpeedReader).
+A rough prototype can be found at [http://pcorey.github.io/SpeedReader](http://pcorey.github.io/SpeedReader).
